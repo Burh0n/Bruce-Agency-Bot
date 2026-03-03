@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-02-28T23:17:45.699154",
+    "user_id": 1227113402,
+    "user_name": "Burhoniddin",
+    "username": "@bburhoniddin",
+    "lang": "ru",
+    "service": "web_dev",
+    "service_name": "🌐 Веб-разработка",
+    "details": "Hello",
+    "budget": "650",
+    "contact": "@brucewebs",
+    "status": "new",
+    "id": 1
+  },
+  {
+    "timestamp": "2026-02-28T23:19:33.408658",
+    "user_id": 1227113402,
+    "user_name": "Burhoniddin",
+    "username": "@bburhoniddin",
+    "lang": "ru",
+    "service": "web_dev",
+    "service_name": "🌐 Веб-разработка",
+    "details": "hello",
+    "budget": "700",
+    "contact": "@bburhoniddin",
+    "status": "done",
+    "id": 2
+  },
+  {
+    "timestamp": "2026-03-01T05:54:04.652881",
+    "user_id": 6101222129,
+    "user_name": "A",
+    "username": "@tohiroff_vip",
+    "lang": "uz",
+    "service": "web_dev",
+    "service_name": "🌐 Veb-dasturlash",
+    "details": "bot nomer sotishi kerak bo'ladi avval to'lov qilinadj keyin nomerni nomingizga o'tqazib beramz",
+    "budget": "200",
+    "contact": "@tohiroff_vip",
+    "status": "new",
+    "id": 3
+  }
+]
