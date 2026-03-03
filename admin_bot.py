@@ -18,8 +18,9 @@ from telegram.ext import (
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
-ADMIN_BOT_TOKEN = os.getenv("ADMIN_BOT_TOKEN", "7350552442:AAHj-cCYPJS2Y9g735Rin0iE27svPrdMiZI")
-ADMIN_CHAT_ID   = int(os.getenv("ADMIN_CHAT_ID", "1227113402"))   # your Telegram user ID
+ADMIN_BOT_TOKEN = os.getenv("ADMIN_BOT_TOKEN")
+ADMIN_CHAT_ID   = int(os.getenv("ADMIN_CHAT_ID", "0"))
+
 ORDERS_FILE     = "orders.json"  # shared with bot.py
 
 logging.basicConfig(
